@@ -19,6 +19,6 @@ This repository contains the implementation of three popular architectures for i
 
 I hope this repository is helpful for your image classification tasks. Feel free to reach out if you have any questions or feedback.
 
-## Happy coding!
+ Happy coding!
  
   
