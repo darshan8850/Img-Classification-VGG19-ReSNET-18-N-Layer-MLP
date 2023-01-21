@@ -8,7 +8,7 @@ This repository contains the code for training and evaluating image classificati
  
  ### To get started, you will need to clone this repository to your local machine by running:
   
-  git clone https://github.com/darshan8850/Img-Classification-VGG19-ReSNET-18-N-Layer-MLP
+  ```git clone https://github.com/darshan8850/Img-Classification-VGG19-ReSNET-18-N-Layer-MLP```
   
  ### Make sure you have a GPU before running the code as the models are very deep and training on CPU will be computationally expensive or else use Google Colab.
  
