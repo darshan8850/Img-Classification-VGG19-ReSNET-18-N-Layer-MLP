@@ -12,7 +12,7 @@ This repository contains the code for training and evaluating image classificati
   
  ### Make sure you have a GPU before running the code as the models are very deep and training on CPU will be computationally expensive or else use Google Colab.
  
- Run main.ipynb
+ ```Run main.ipynb```
  
 ## Conclusion
 This repository contains the implementation of three popular architectures for image classification - VGG19, ResNet18, and n-layer MLP. The code is easy to understand, modify, and extend. You can also try using different hyperparameters and regularization techniques to further improve the performance of the models.
